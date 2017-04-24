@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="DISPRingProcessor.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DISPRingProcessor"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="59" Y="10"/>
+        <UsageCount Value="233"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="maindispringprocessor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainDISPRingProcessor"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="176"/>
+        <CursorPos X="39" Y="187"/>
+        <UsageCount Value="233"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="dispringprocessorvars.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DISPRingProcessorVars"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="57"/>
+        <CursorPos X="30" Y="78"/>
+        <UsageCount Value="233"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="DISPProcessor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DISPProcessor"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="708"/>
+        <CursorPos X="3" Y="631"/>
+        <UsageCount Value="233"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\bitDevTools\bitDataSource\bitMSSQLDataConnector.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bitMSSQLDataConnector"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="83"/>
+        <CursorPos X="39" Y="97"/>
+        <UsageCount Value="358"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\bitDevTools\bitDataSource\bitDataSource.pas"/>
+        <UnitName Value="bitDataSource"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="273"/>
+        <CursorPos X="1" Y="284"/>
+        <UsageCount Value="179"/>
+        <Loaded Value="True"/>
+      </Unit5>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="223" Column="1" TopLine="211"/>
+      </Position1>
+      <Position2>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="220" Column="1" TopLine="211"/>
+      </Position2>
+      <Position3>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="221" Column="1" TopLine="211"/>
+      </Position3>
+      <Position4>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="222" Column="1" TopLine="211"/>
+      </Position4>
+      <Position5>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="223" Column="1" TopLine="211"/>
+      </Position5>
+      <Position6>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="220" Column="1" TopLine="211"/>
+      </Position6>
+      <Position7>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="221" Column="1" TopLine="211"/>
+      </Position7>
+      <Position8>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="222" Column="1" TopLine="211"/>
+      </Position8>
+      <Position9>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="223" Column="1" TopLine="211"/>
+      </Position9>
+      <Position10>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="227" Column="1" TopLine="211"/>
+      </Position10>
+      <Position11>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="228" Column="1" TopLine="211"/>
+      </Position11>
+      <Position12>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="230" Column="1" TopLine="211"/>
+      </Position12>
+      <Position13>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="231" Column="1" TopLine="212"/>
+      </Position13>
+      <Position14>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="232" Column="1" TopLine="213"/>
+      </Position14>
+      <Position15>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="233" Column="1" TopLine="214"/>
+      </Position15>
+      <Position16>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="245" Column="19" TopLine="219"/>
+      </Position16>
+      <Position17>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="234" Column="21" TopLine="219"/>
+      </Position17>
+      <Position18>
+        <Filename Value="..\..\..\bitDevTools\bitDataSource\bitMSSQLDataConnector.pas"/>
+        <Caret Line="97" Column="39" TopLine="83"/>
+      </Position18>
+      <Position19>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="216" Column="36" TopLine="146"/>
+      </Position19>
+      <Position20>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="165" Column="1" TopLine="146"/>
+      </Position20>
+      <Position21>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="166" Column="1" TopLine="156"/>
+      </Position21>
+      <Position22>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="169" Column="1" TopLine="156"/>
+      </Position22>
+      <Position23>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="170" Column="1" TopLine="156"/>
+      </Position23>
+      <Position24>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="211" Column="1" TopLine="200"/>
+      </Position24>
+      <Position25>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="165" Column="1" TopLine="154"/>
+      </Position25>
+      <Position26>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="166" Column="1" TopLine="154"/>
+      </Position26>
+      <Position27>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="169" Column="1" TopLine="154"/>
+      </Position27>
+      <Position28>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="170" Column="1" TopLine="154"/>
+      </Position28>
+      <Position29>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="211" Column="1" TopLine="200"/>
+      </Position29>
+      <Position30>
+        <Filename Value="maindispringprocessor.pas"/>
+        <Caret Line="121" Column="40" TopLine="198"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="2">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="maindispringprocessor.pas"/>
+        <Line Value="172"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="maindispringprocessor.pas"/>
+        <Line Value="225"/>
+      </Item2>
+    </BreakPoints>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="ID_Ring"/>
+      </Item1>
+      <Item2>
+        <Expression Value="ID_Asset"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+  <EditorMacros Count="0"/>
+</CONFIG>
